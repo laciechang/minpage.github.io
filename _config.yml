@@ -20,7 +20,8 @@ title: We Married                         # the main title
 tagline: 张来吃的请柬   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  123123
+  <br><br>
+  <a href="./index.html">website</a>
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://laciechang.github.io'
